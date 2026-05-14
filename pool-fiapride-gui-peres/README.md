@@ -2,9 +2,11 @@
 
 ## Informações do aluno
 
-*   **Nome**: Gui Peres
-*   **Curso**: ADS
+*   **Nome**: Guilherme Verrillo Peres
+*   **Curso**: OBJECT-ORIENTED PROGRAMMING
 *   **GitHub**: GuiP3res
+*   RM: 563981
+*   Turma 2CCPF
 
 ## Descrição do projeto
 
